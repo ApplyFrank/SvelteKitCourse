@@ -8,7 +8,7 @@
                     <a href="/posts/one">One</a>
                 </li>
                 <li>
-                    <a href="/posts/one">Two</a>
+                    <a href="/posts/two">Two</a>
                 </li>
             </ul>
         </nav>
